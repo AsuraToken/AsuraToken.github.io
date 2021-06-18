@@ -7924,7 +7924,7 @@ return new S.bS(s,X.l_(C.bw,new L.e0("assets/faq_card_bg.png",s,s)),s,r,s,s,C.E)
 Pq:function(a,b,c){var s,r=null,q=T.A(8,r),p=E.aih(),o=T.A(15,r)
 o=M.R(r,L.am(c,r,A.dt(18),r,r),r,r,r,r,r,new V.H(0,o,0,0),r)
 s=T.A(13,r)
-return M.R(r,T.c7(H.a([o,M.R(r,L.am(b,r,A.bb(15,P.bF(208,208,208,1)),C.an,r),r,r,r,r,r,new V.H(0,s,0,0),r)],t.p),C.aJ,C.v),r,r,p,r,a,new V.H(q,24,q,24),r)},
+return M.R(r,T.c7(H.a([o,M.R(r,L.am(b,r,A.bb(15,P.bF(208,208,208,1)),C.an,r),r,r,r,r,r,new V.H(0,s,0,0),r)],t.p),C.aJ,C.v),r,r,p,r,a,new V.H(q,24,q,24),1/0)},
 rs:function rs(a){this.a=a},
 Kn:function Kn(a){this.a=null
 this.b=a
@@ -12662,7 +12662,7 @@ return new S.bS(s,s,s,K.i_(4),s,new T.ls(C.iK,C.fH,C.cb,H.a([P.bF(242,201,104,1)
 kE:function(a,b){var s,r=null,q=T.A(8,r),p=O.aii(),o=T.A(44,r)
 o=M.R(r,L.am(b,r,A.bb(18,r),r,r),r,r,r,r,r,new V.H(0,o,0,0),r)
 s=T.A(20,r)
-return M.R(r,T.c7(H.a([o,M.R(r,L.am(a,r,A.bb(17,P.bF(208,208,208,1)),C.al,r),r,r,r,r,r,new V.H(0,s,0,0),r)],t.p),C.t,C.v),r,new S.ax(0,1/0,195,1/0),p,r,r,new V.H(q,0,q,0),r)},
+return M.R(r,T.c7(H.a([o,M.R(r,L.am(a,r,A.bb(17,P.bF(208,208,208,1)),C.al,r),r,r,r,r,r,new V.H(0,s,0,0),r)],t.p),C.t,C.v),r,new S.ax(0,1/0,195,1/0),p,r,r,new V.H(q,0,q,0),1/0)},
 tC:function tC(a){this.a=a},
 Lo:function Lo(a){this.a=null
 this.b=a
@@ -34852,7 +34852,7 @@ k=T.A(13,b)
 L.S(a4,C.i,a2).toString
 k=M.R(b,L.am(T.U("Hey, there is FOMO Bonus Pool!",b,"FOMOPool",H.a([],s),b),b,A.bb(T.A(14,b),b),b,b),b,b,b,b,b,new V.H(0,0,0,k),b)
 j=T.A(6,b)
-j=M.R(b,L.am("99999",b,A.bb(T.A(36,b),b),b,b),b,b,b,b,b,new V.H(0,0,0,j),b)
+j=M.R(b,L.am("0",b,A.bb(T.A(36,b),b),b,b),b,b,b,b,b,new V.H(0,0,0,j),b)
 i=T.A(6,b)
 h=T.A(10,b)
 i=M.R(b,T.d0(H.a([M.R(b,U.ig("assets/Icon_USDT@2x.png",C.bx,b,T.A(20,b)),b,b,b,b,b,new V.H(0,0,h,0),b),L.am("USDT",b,A.bb(T.A(20,b),b),b,b)],m),C.t,C.v,C.pY),b,b,b,b,b,new V.H(0,0,0,i),b)
@@ -34869,7 +34869,7 @@ r=T.A(26,b)
 g=T.A(480,b)
 c=T.A(162,b)
 f=X.l_(C.bw,new L.e0(a,b,b))
-d=M.R(b,L.am("62.77 %",b,A.bb(T.A(34,b),b),b,b),b,b,b,b,b,b,b)
+d=M.R(b,L.am("50 %",b,A.bb(T.A(34,b),b),b,b),b,b,b,b,b,b,b)
 e=T.A(32,b)
 L.S(a4,C.i,a2).toString
 g=M.R(b,T.c7(H.a([d,M.R(b,L.am(T.U("Of supply in the black Hole",b,"BlackHole",H.a([],s),b),b,A.bb(T.A(20,b),P.bF(208,208,208,1)),b,b),b,b,b,b,b,new V.H(0,e,0,0),b)],m),C.t,C.c5),b,b,new S.bS(b,f,b,b,b,b,C.E),c,b,b,g)
@@ -34877,7 +34877,7 @@ c=T.e2(M.R(b,b,b,b,b,b,b,b,b))
 f=T.A(480,b)
 e=T.A(162,b)
 d=X.l_(C.bw,new L.e0(a,b,b))
-h=M.R(b,L.am("166666",b,A.bb(T.A(34,b),b),b,b),b,b,b,b,b,b,b)
+h=M.R(b,L.am("0",b,A.bb(T.A(34,b),b),b,b),b,b,b,b,b,b,b)
 i=T.A(32,b)
 L.S(a4,C.i,a2).toString
 return M.R(b,T.d0(H.a([a1,M.R(b,T.c7(H.a([new T.es(new V.H(0,q,0,0),p,b),n,M.R(b,T.d0(H.a([g,c,M.R(b,T.c7(H.a([h,M.R(b,L.am(T.U("Liquidity Pool(USDT)",b,"LiquidityPoolUsdt",H.a([],s),b),b,A.bb(T.A(20,b),P.bF(208,208,208,1)),b,b),b,b,b,b,b,new V.H(0,i,0,0),b)],m),C.t,C.c5),b,b,new S.bS(b,d,b,b,b,b,C.E),e,b,b,f)],m),C.t,C.v,C.a4),b,b,b,b,b,new V.H(0,r,0,0),o)],m),C.t,C.v),b,b,b,b,b,b,b)],m),C.aJ,C.v,C.a4),b,b,b,b,b,b,b)}}
@@ -34895,7 +34895,7 @@ q=T.A(57,b)
 p=P.bF(248,206,106,1)
 o=K.i_(200)
 L.S(a5,C.i,a3).toString
-q=M.R(b,D.rE(b,M.R(C.am,L.am(T.U("BUY",b,"BUY",H.a([],s),b),b,A.dk(b,b,C.r,b,b,b,b,b,b,b,b,18,b,C.a9,b,b,!0,b,b,b,b,b,b,b),b,b),b,b,new S.bS(p,b,b,o,b,b,C.E),95,b,b,b),C.aS,!1,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b),b,b,b,b,b,new V.H(0,q,0,0),b)
+q=M.R(b,D.rE(b,M.R(C.am,L.am(T.U("BUY",b,"BUY",H.a([],s),b),b,A.dk(b,b,C.r,b,b,b,b,b,b,b,b,18,b,C.a9,b,b,!0,b,b,b,b,b,b,b),b,b),b,b,new S.bS(p,b,b,o,b,b,C.E),50,b,b,b),C.aS,!1,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b),b,b,b,b,b,new V.H(0,q,0,0),b)
 o=T.A(75,b)
 L.S(a5,C.i,a3).toString
 p=L.am(T.U("Countdown to",b,"Countdown",H.a([],s),b),b,A.bb(24,b),C.al,b)
@@ -34909,7 +34909,7 @@ j=T.A(13,b)
 L.S(a5,C.i,a3).toString
 j=M.R(b,L.am(T.U("Hey, there is FOMO Bonus Pool!",b,"FOMOPool",H.a([],s),b),b,A.bb(14,b),b,b),b,b,b,b,b,new V.H(0,0,0,j),b)
 i=T.A(6,b)
-i=M.R(b,L.am("99999",b,A.bb(30,b),b,b),b,b,b,b,b,new V.H(0,0,0,i),b)
+i=M.R(b,L.am("0",b,A.bb(30,b),b,b),b,b,b,b,b,new V.H(0,0,0,i),b)
 h=T.A(6,b)
 g=T.A(10,b)
 f=t.p
@@ -34922,13 +34922,13 @@ L.S(a5,C.i,a3).toString
 n=M.R(b,M.R(b,T.c7(H.a([l,k,j,i,h,g,M.R(C.am,L.am(T.U("Check Balance In Pool",b,"CheckBalanceInPool",H.a([],s),b),b,A.dk(b,b,C.r,b,b,b,b,b,b,b,b,13,b,C.a9,b,b,!0,b,b,b,b,b,b,b),b,b),b,b,new S.bS(e,b,b,d,b,b,C.E),35,new V.H(0,0,0,c),b,161)],f),C.t,C.v),b,b,b,b,b,b,b),b,b,new S.bS(b,m,b,b,b,b,C.E),n,new V.H(0,5,0,0),b,b)
 m=T.A(70,b)
 c=X.l_(C.bw,new L.e0(a,b,b))
-d=M.R(b,L.am("62.77 %",b,A.bb(30,b),b,b),b,b,b,b,b,b,b)
+d=M.R(b,L.am("50 %",b,A.bb(30,b),b,b),b,b,b,b,b,b,b)
 e=T.A(32,b)
 L.S(a5,C.i,a3).toString
 m=M.R(b,T.c7(H.a([d,M.R(b,L.am(T.U("Of supply in the black Hole",b,"BlackHole",H.a([],s),b),b,A.bb(18,P.bF(208,208,208,1)),b,b),b,b,b,b,b,new V.H(0,e,0,0),b)],f),C.t,C.v),b,b,new S.bS(b,c,b,b,b,b,C.E),120,new V.H(0,m,0,0),b,1/0)
 c=T.A(70,b)
 e=X.l_(C.bw,new L.e0(a,b,b))
-d=M.R(b,L.am("166666",b,A.bb(30,b),b,b),b,b,b,b,b,b,b)
+d=M.R(b,L.am("0",b,A.bb(30,b),b,b),b,b,b,b,b,b,b)
 g=T.A(32,b)
 L.S(a5,C.i,a3).toString
 return M.R(b,T.c7(H.a([a2,r,q,new T.es(new V.H(0,o,0,0),p,b),n,m,M.R(b,T.c7(H.a([d,M.R(b,L.am(T.U("Liquidity Pool(USDT)",b,"LiquidityPoolUsdt",H.a([],s),b),b,A.bb(18,P.bF(208,208,208,1)),b,b),b,b,b,b,b,new V.H(0,g,0,0),b)],f),C.t,C.v),b,b,new S.bS(b,e,b,b,b,b,C.E),120,new V.H(0,c,0,0),b,1/0),T.aa_()],f),C.t,C.v),b,b,b,b,b,new V.H(a0,0,a1,0),b)}}
