@@ -34829,7 +34829,7 @@ a0=M.R(b,L.am(T.U(u.A,b,"HomeAbout",H.a([],s),b),100,A.dk(b,b,C.n,b,b,b,b,b,b,b,
 a1=T.A(48,b)
 r=T.A(20,b)
 L.S(a4,C.i,a2).toString
-r=M.R(b,L.am(T.U(u.S,b,"HomeSmallAbout",H.a([],s),b),100,A.dk(b,b,C.n,b,b,b,b,b,b,b,b,Math.max(T.A(14,b),10),b,C.a9,b,b,!0,b,b,b,b,b,b,b),b,b),b,b,b,b,b,new V.H(0,a1,r,0),b)
+r=M.R(b,L.am(T.U(u.S,b,"HomeSmallAbout",H.a([],s),b),100,A.dk(b,b,C.n,b,b,b,b,b,b,b,b,Math.max(T.A(14,b),12),b,C.a9,b,b,!0,b,b,b,b,b,b,b),b,b),b,b,b,b,b,new V.H(0,a1,r,0),b)
 a1=T.A(57,b)
 q=T.A(150,100)
 p=T.A(70,47)
