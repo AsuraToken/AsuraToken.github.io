@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "b2b1084d2438d1e89242233c405ffcf1",
-"index.html": "02329962a280b6820ec907bde8599b52",
-"/": "02329962a280b6820ec907bde8599b52",
-"main.dart.js": "b426cc82ebde67e4baa548b45f70759c",
+"index.html": "c180ca769216cc62b6968daa95a17c6f",
+"/": "c180ca769216cc62b6968daa95a17c6f",
+"main.dart.js": "7506d0956dddbe0cf2e0219d6f176a77",
 "favicon.png": "83f04be251df05ceb50f605cd04b6896",
 "icons/Icon-192.png": "a0b9a8338d075daaddab06e5e3a201a2",
 "icons/Icon-512.png": "4eb7d384eaeb10921e1d9ef689282ed4",
@@ -24,7 +24,7 @@ const RESOURCES = {
 "assets/assets/other_bg.png": "1c2e62cbac85454062a7b396a88df65d",
 "assets/assets/arrow@2x.png": "742627b04d01f40456d79c8666768529",
 "assets/assets/Asura@2x.png": "e48d234b939b5805e9f9d1c7af23f9b8",
-"assets/assets/chart.png": "4c2e3f5e10baa315a808594de33e8ea3",
+"assets/assets/chart.png": "9d112ec16dd96f708034ed71c772d8bf",
 "assets/assets/contaiger_bg@2x.png": "b1568c1e1594c74faac64de9e8ea7fac",
 "assets/assets/balance.png": "417e45b3854c774308ad05a0425b08b9",
 "assets/assets/logo@2x.png": "6f84a0cdb9d0346b63cd73fe0668ebf8",
