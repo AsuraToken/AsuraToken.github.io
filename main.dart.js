@@ -35742,10 +35742,10 @@ s=t.f
 r=L.T(T.X("Token",a2,"TokenName",H.a([],s),a2)+"\uff1aAsura",a2,a2,a2,A.ba(25,a2,C.ap),a2,a2)
 L.S(a6,C.i,a4).toString
 q=L.T(T.X("Total Supply\uff1a100 Billion",a2,"TotalSupply",H.a([],s),a2),a2,a2,a2,A.ba(25,a2,C.ap),a2,a2)
-p=T.v(551,a2)
-o=C.d.al(25.5)
-n=P.ak(o,255,255,255)
-m=K.bE(5)
+p=C.d.al(25.5)
+o=P.ak(p,255,255,255)
+n=K.bE(5)
+m=T.v(62,a2)
 l=T.v(62,a2)
 k=T.v(62,a2)
 j=T.v(62,a2)
@@ -35775,12 +35775,12 @@ a0=T.bK(T.b0(H.a([a,a0,T.bK(L.T(T.X("Community airdrop reward",a2,"Airdrop",H.a(
 a=L.T("1.5%:",a2,a2,a2,A.am(15,a2,a2),a2,a2)
 a1=M.p(a2,a2,a2,a2,a2,1,a2,a2,T.v(26,a2))
 L.S(a6,C.i,a4).toString
-k=M.p(C.C,T.bz(H.a([i,h,g,c,f,b,e,T.b0(H.a([a0,T.bK(T.b0(H.a([a,a1,T.bK(L.T(T.X("white list pre-sale",a2,"whiteListPreSale",H.a([],s),a2),a2,a2,a2,A.am(15,a2,a2),a2,a2))],d),C.a6,C.p,C.n))],d),C.a6,C.p,C.n)],d),C.a6,C.p,C.n),a2,a2,new S.aP(n,a2,a2,m,a2,a2,C.x),p,new V.y(0,48,0,0),new V.y(l,j,k,0),a2)
-j=M.p(a2,a2,a2,a2,a2,36,a2,a2,1)
-l=T.v(551,a2)
-o=P.ak(o,255,255,255)
-p=K.bE(5)
-return M.p(a2,T.bz(H.a([r,q,k,j,M.p(C.C,U.f5("assets/chart.png",C.aQ,a2,T.v(559,a2)),a2,a2,new S.aP(o,a2,a2,p,a2,a2,C.x),l,a2,a2,a2),T.Bb()],d),C.a6,C.p,C.n),a2,a2,a2,a2,a2,new V.y(0,100,0,0),a2)}}
+j=M.p(C.C,T.bz(H.a([i,h,g,c,f,b,e,T.b0(H.a([a0,T.bK(T.b0(H.a([a,a1,T.bK(L.T(T.X("white list pre-sale",a2,"whiteListPreSale",H.a([],s),a2),a2,a2,a2,A.am(15,a2,a2),a2,a2))],d),C.a6,C.p,C.n))],d),C.a6,C.p,C.n)],d),C.a6,C.p,C.n),a2,a2,new S.aP(o,a2,a2,n,a2,a2,C.x),a2,new V.y(0,48,0,0),new V.y(m,k,l,j),a2)
+l=M.p(a2,a2,a2,a2,a2,36,a2,a2,1)
+k=T.v(551,a2)
+p=P.ak(p,255,255,255)
+m=K.bE(5)
+return M.p(a2,T.bz(H.a([r,q,j,l,M.p(C.C,U.f5("assets/chart.png",C.aQ,a2,T.v(559,a2)),a2,a2,new S.aP(p,a2,a2,m,a2,a2,C.x),k,a2,a2,a2),T.Bb()],d),C.a6,C.p,C.n),a2,a2,a2,a2,a2,new V.y(0,100,0,0),a2)}}
 G.uh.prototype={
 ah:function(){return new G.Ne(C.q)}}
 G.Ne.prototype={
